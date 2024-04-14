@@ -52,7 +52,3 @@ const saveMessages = (blue, green, red) => {
     red: red,
   });
 };
-
-const getElementVal = (id) => {
-  return document.getElementById(id).value;
-};
