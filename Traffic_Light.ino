@@ -1,9 +1,9 @@
 #include <Firebase_Arduino_WiFiNINA.h>
 
-#define FIREBASE_HOST "test2-f11da-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "gC6z1RGoGyRDO5a5glIzaWoUXMpBtb4T5Z9pKJsb"
-#define WIFI_SSID "TelstraE78C95"
-#define WIFI_PASSWORD "mnnu9vh7x7"
+#define FIREBASE_HOST "FireHost"
+#define FIREBASE_AUTH "FireAuth"
+#define WIFI_SSID "WiFi SSID"
+#define WIFI_PASSWORD "WiFi PASS"
 
 FirebaseData firebaseData;
 
